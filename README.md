@@ -35,6 +35,6 @@ Supported business growth by identifying opportunities to increase sales and pro
 
 4.Screenshot 
 
-show what the dashboard look like
+what the dashboard look like
 ![Dashboard Preview](https://github.com/omkarnayak2004/Super-Store-Sales-Dashboard/blob/main/image.png)
 
