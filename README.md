@@ -33,9 +33,8 @@ Evaluated shipping performance to improve delivery efficiency.
 Enabled faster, data-driven decision-making through interactive visualizations.
 Supported business growth by identifying opportunities to increase sales and profitability.
 
-Screenshot 
+4.Screenshot 
 
 show what the dashboard look like
 ![Dashboard Preview](https://github.com/omkarnayak2004/Super-Store-Sales-Dashboard/blob/main/image.png)
 
-Screenshot
